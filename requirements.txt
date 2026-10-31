@@ -1,0 +1,3 @@
+# VolTrx requires only standard Python libraries (Python 3.8+)
+# Optional enhancements:
+# rich>=13.0.0
