@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.html
+*.json
+!package.json
+sample_access.log
+.vscode/
+.idea/
